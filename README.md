@@ -2,7 +2,7 @@
 
 ATLP Devpulse backend
 
-[![CI](https://github.com/atlp-rwanda/atlp-pulse-bn/actions/workflows/ci-pipeline.yml/badge.svg)](https://github.com/atlp-rwanda/atlp-pulse-bn/actions/workflows/ci-pipeline.yml)
+
 
 ## Introduction
 
@@ -22,7 +22,7 @@ Make sure you have the following boxes checked
 If all the above are checked, use the following code snippet to get a copy of the repository
 
 ```git
-git clone https://github.com/atlp-rwanda/atlp-pulse-bn.git
+
 cd atlp-pulse-bn
 npm install
 cp .env.example .env
@@ -78,11 +78,4 @@ docker run -p 4000:4000 -d devpulse_bn
 
 ### Contributors
 
-- [Fabrice Hafashimana](https://github.com/feyton)
-- Jules Himbazwa
-- Kevin Kubwimana
-- [Prophete ISINGIZWE](https://github.com/procech20)
-- [Tuyizere Shema Alain](https://github.com/tsa2341)
-- [Patrick Tuyishimire Yangeneye](https://github.com/PatrickTUy)
-- Samuel Shyaka Dushimirimana
-- Samuel Nishimwe
+- ishimwe Eliab
