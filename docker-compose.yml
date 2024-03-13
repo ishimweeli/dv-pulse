@@ -1,0 +1,15 @@
+services:
+  web:
+    build: .
+    secrets:
+      - bn_secrets
+    expose:
+      - 4000
+    environment:
+      - NODE_DEBUG:"true"
+    ports:
+      - '4000:4000'
+
+secrets:
+  bn_secrets:
+    file: ./.env
