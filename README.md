@@ -76,13 +76,4 @@ docker run -p 4000:4000 -d devpulse_bn
 - DigitalOcean: Our cloud porvider/hosting
 - Heroku: Staging Platform
 
-### Contributors
 
-- [Fabrice Hafashimana](https://github.com/feyton)
-- Jules Himbazwa
-- Kevin Kubwimana
-- [Prophete ISINGIZWE](https://github.com/procech20)
-- [Tuyizere Shema Alain](https://github.com/tsa2341)
-- [Patrick Tuyishimire Yangeneye](https://github.com/PatrickTUy)
-- Samuel Shyaka Dushimirimana
-- Samuel Nishimwe
