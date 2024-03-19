@@ -2,7 +2,6 @@
 
 ATLP Devpulse backend
 
-[![CI](https://github.com/atlp-rwanda/atlp-pulse-bn/actions/workflows/ci-pipeline.yml/badge.svg)](https://github.com/atlp-rwanda/atlp-pulse-bn/actions/workflows/ci-pipeline.yml)
 
 ## Introduction
 
@@ -22,7 +21,7 @@ Make sure you have the following boxes checked
 If all the above are checked, use the following code snippet to get a copy of the repository
 
 ```git
-git clone https://github.com/atlp-rwanda/atlp-pulse-bn.git
+
 cd atlp-pulse-bn
 npm install
 cp .env.example .env
